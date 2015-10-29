@@ -1,0 +1,39 @@
+body {
+  background-color: #48475D; }
+
+.cover-container {
+  display: block;
+  background-color: grey;
+  width: 400px;
+  height: 400px;
+  margin: 7em auto;
+  border-radius: 20px;
+  box-shadow: 0 0 5px #2D2C3B; }
+
+/*Album Elements */
+#sunset #sea #sail {
+  display: inline-block;
+  width: 400px; }
+
+#sunset {
+  height: 150px;
+  background-color: #E76324; }
+
+#sea {
+  background-color: #090806;
+  height: 250px; }
+
+#sail {
+  position: absolute;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  line-height: 0;
+  border: 2.5em solid #634A16;
+  border-bottom: none;
+  border-left: none;
+  border-top-right-radius: 2.5em;
+  margin-left: 350px;
+  margin-top: -30px; }
+
+/*# sourceMappingURL=afi.css.map */
